@@ -1,0 +1,4614 @@
+{
+  "dates": [
+    {
+      "session": "1",
+      "area": "南半球暨亞洲地區1",
+      "area_en": "Southern Hemisphere & Asia 1",
+      "start_date": "2026-01-06",
+      "end_date": "2026-01-26",
+      "register_date": "即日起",
+      "expiration_date": "2025-10-31",
+      "quota": "70",
+      "link": "https://www.ocac.gov.tw/OCAC/File/Attach/80335263/File_554975.pdf",
+      "status": "ON_SCHEDULE"
+    },
+    {
+      "session": "2",
+      "area": "南半球地區",
+      "area_en": "Southern Hemisphere",
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-18",
+      "register_date": "即日起",
+      "expiration_date": "2025-12-15",
+      "quota": "40",
+      "link": "",
+      "status": "CANCELLED"
+    },
+    {
+      "session": "3",
+      "area": "緬甸地區",
+      "area_en": "Myanmar",
+      "start_date": "2026-04-10",
+      "end_date": "2026-04-23",
+      "register_date": "2025-11-01",
+      "expiration_date": "2026-02-28",
+      "quota": "35",
+      "link": "https://www.ocac.gov.tw/OCAC/File/Attach/80335263/File_557014.pdf",
+      "status": "PREPARATION"
+    },
+    {
+      "session": "5",
+      "area": "印尼地區",
+      "area_en": "Indonesia",
+      "start_date": "2026-06-21",
+      "end_date": "2026-07-04",
+      "register_date": "2026-01-01",
+      "expiration_date": "2026-03-31",
+      "quota": "80",
+      "link": "https://www.ocac.gov.tw/OCAC/File/Attach/80335263/File_564649.pdf",
+      "status": "PREPARATION"
+    },
+    {
+      "session": "6",
+      "area": "歐亞加地區",
+      "area_en": "Eurasian & Canada",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-14",
+      "register_date": "2026-03-01",
+      "expiration_date": "2026-06-30",
+      "quota": "40",
+      "link": "https://www.ocac.gov.tw/OCAC/File/Attach/80335263/File_566239.pdf",
+      "status": "PREPARATION"
+    },
+    {
+      "session": "7",
+      "area": "南半球暨亞洲地區2",
+      "area_en": "Southern Hemisphere & Asia 2",
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-27",
+      "register_date": "2026-04-01",
+      "expiration_date": "2026-07-01",
+      "quota": "80",
+      "link": "https://www.ocac.gov.tw/OCAC/File/Attach/80335263/File_566240.pdf",
+      "status": "PREPARATION"
+    },
+    {
+      "session": "8",
+      "area": "馬來西亞地區",
+      "area_en": "Malaysia",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-26",
+      "register_date": "2026-06-01",
+      "expiration_date": "2026-09-30",
+      "quota": "80",
+      "link": "https://www.ocac.gov.tw/OCAC/File/Attach/80335263/File_564652.pdf",
+      "status": "PREPARATION"
+    }
+  ],
+  "schedule": {
+    "1": [
+      {
+        "session": "1",
+        "date": "2026-01-06",
+        "time": "morning",
+        "title": "",
+        "place": "桃園機場接機",
+        "place_en": "Airport Pickup",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-06",
+        "time": "afternoon",
+        "title": "",
+        "place": "學員報到、報平安、環境介紹",
+        "place_en": "Check in",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-06",
+        "time": "evening",
+        "title": "",
+        "place": "生活說明會",
+        "place_en": "Code of Conduct Orientation",
+        "introduction": "認識輔導員工作團隊及小隊夥伴",
+        "introduction_en": "Introduction to the counseling team and teammates"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-06",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-07",
+        "time": "morning",
+        "title": "政策宣導",
+        "place": "臺灣政經發展與國情簡介",
+        "place_en": "Introduce to Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-07",
+        "time": "morning",
+        "title": "行銷實務",
+        "place": "自媒體行銷課程",
+        "place_en": "Self-Media Marketing Course",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-07",
+        "time": "afternoon",
+        "title": "政策宣導",
+        "place": "僑委會簡介",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-07",
+        "time": "afternoon",
+        "title": "",
+        "place": "始業式(僑委會主持)",
+        "place_en": "Opening Ceremony",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-07",
+        "time": "afternoon",
+        "title": "",
+        "place": "小隊聯誼",
+        "place_en": "Team Building",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-07",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "士林夜市",
+        "place_en": "Shilin Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-07",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-08",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "國立故宮博物院",
+        "place_en": "National Palace Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-08",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "臺北101形象商圈",
+        "place_en": "Taipei 101",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-08",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "行前準備",
+        "place_en": "Preparation",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-08",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-09",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "景文科技大學",
+        "place_en": "Jingwen University of Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-09",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "大溪老街",
+        "place_en": "Daxi Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-09",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "角板山生態巡禮",
+        "place_en": "Jiaobanshan Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-09",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "談心聯誼",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-09",
+        "time": "accommodation",
+        "title": "",
+        "place": "復興青年活動中心",
+        "place_en": "Fuhsing Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://fuhsing.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-10",
+        "time": "morning",
+        "title": "生態環境探索",
+        "place": "高美濕地",
+        "place_en": "Gaomei Wetland Preservation Area",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-10",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "向山遊客中心",
+        "place_en": "Xiangshan Visitor Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-10",
+        "time": "afternoon",
+        "title": "",
+        "place": "日月潭遊湖",
+        "place_en": "Sun Moon Lake Boat Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-10",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "夜逛日月潭：伊達邵原民商圈",
+        "place_en": "Ita Thao Pier",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-10",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-11",
+        "time": "all-day",
+        "title": "在地生活探索",
+        "place": "日月潭纜車",
+        "place_en": "Sun Moon Lake Ropeway",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-11",
+        "time": "all-day",
+        "title": "認識臺灣多元文化",
+        "place": "九族文化村",
+        "place_en": "Formosan Aboriginal Culture Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-11",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "創意晚會",
+        "place_en": "Party Night",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-11",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-12",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "車埕車站",
+        "place_en": "Checheng Railway Station",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-12",
+        "time": "afternoon",
+        "title": "生態教育探索",
+        "place": "溪頭妖怪村&溪頭自然教育園區",
+        "place_en": "Xitou Monster Village & Xitou Nature Education Area",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-12",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "談心聯誼",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-12",
+        "time": "accommodation",
+        "title": "",
+        "place": "溪頭青年活動中心",
+        "place_en": "Xitou Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chitou.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-13",
+        "time": "morning",
+        "title": "影片欣賞-生態環境",
+        "place": "齊柏林【看見臺灣】",
+        "place_en": "Appreciate the movie: Beyond Beauty - TAIWAN FROM ABOVE",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-13",
+        "time": "morning",
+        "title": "臺灣文創新據點",
+        "place": "檜意森活村",
+        "place_en": "Hinoki Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-13",
+        "time": "afternoon",
+        "title": "學校招生宣導及青年交流",
+        "place": "臺南應用科技大學",
+        "place_en": "Tainan University of Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-13",
+        "time": "afternoon",
+        "title": "產業參訪",
+        "place": "沙崙智慧綠能科學城",
+        "place_en": "Shalun Smart Green Energy Science City",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-13",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "運動團康",
+        "place_en": "Sports Team-Building Activities",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-13",
+        "time": "accommodation",
+        "title": "",
+        "place": "曾文青年活動中心",
+        "place_en": "Tsengwen Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://tsengwen.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-14",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "高雄駁二藝術特區",
+        "place_en": "Pier-2 Art Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-14",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "旗津渡輪/老街",
+        "place_en": "Cijin-Gushan Ferry&Cijin Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-14",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "高雄捷運巡禮",
+        "place_en": "Kaohsiung MRT Cultural & City Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-14",
+        "time": "accommodation",
+        "title": "",
+        "place": "高雄康橋旅店中正館",
+        "place_en": "Kindness Hotel Jhongjheng",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-15",
+        "time": "morning",
+        "title": "在地生活探索",
+        "place": "打狗英國領事館文化園區",
+        "place_en": "The British Consulate at Takow Cultural Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-15",
+        "time": "afternoon",
+        "title": "生態教育探索",
+        "place": "鵝鑾鼻燈塔",
+        "place_en": "Eluanbi Lighthouse",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-15",
+        "time": "afternoon",
+        "title": "",
+        "place": "龍磐大草原",
+        "place_en": "Longpan Prairie",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-15",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "墾丁大街",
+        "place_en": "Kenting Main Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-15",
+        "time": "accommodation",
+        "title": "",
+        "place": "墾丁青年活動中心",
+        "place_en": "Kenting Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://kenting.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-16",
+        "time": "morning",
+        "title": "生態教育探索",
+        "place": "墾丁社頂自然公園",
+        "place_en": "Kenting Sheding Nature Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-16",
+        "time": "afternoon",
+        "title": "生態教育探索",
+        "place": "國立海洋生物博物館",
+        "place_en": "National Museum of Marine Biology and Aquarium",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-16",
+        "time": "evening",
+        "title": "童玩體驗趣",
+        "place": "臺灣傳統童玩玩很大",
+        "place_en": "Taiwan Folk Toy Experience",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-16",
+        "time": "accommodation",
+        "title": "",
+        "place": "墾丁青年活動中心",
+        "place_en": "Kenting Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://kenting.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-17",
+        "time": "morning",
+        "title": "認識臺灣多元文化",
+        "place": "屏東六堆客家文化園區",
+        "place_en": "Liudui Hakka Cultural Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-17",
+        "time": "afternoon",
+        "title": "臺灣歷史巡禮",
+        "place": "國立臺灣歷史博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-17",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "武聖夜市",
+        "place_en": "Wusheng Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-17",
+        "time": "accommodation",
+        "title": "",
+        "place": "臺南維悅酒店",
+        "place_en": "Wei-Yat Grand Hotel Tainan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-18",
+        "time": "morning",
+        "title": "臺灣歷史巡禮",
+        "place": "安平老街",
+        "place_en": "Anping Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-18",
+        "time": "afternoon",
+        "title": "藝文饗宴體驗",
+        "place": "國立自然科學博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-18",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "逢甲夜市",
+        "place_en": "Fengchia Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-18",
+        "time": "accommodation",
+        "title": "",
+        "place": "臺中西悠飯店",
+        "place_en": "CU Hotel",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-19",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "靜宜大學",
+        "place_en": "Providence University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-19",
+        "time": "afternoon",
+        "title": "認識臺灣多元文化",
+        "place": "KIRI國際原住民文創園區",
+        "place_en": "KIRI International Indigenous Cultural and Creative Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-19",
+        "time": "evening",
+        "title": "整備行李及小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-19",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-20",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "臺北忠烈祠",
+        "place_en": "National Revolutionary Martyrs’ Shrine",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-20",
+        "time": "morning",
+        "title": "",
+        "place": "北投溫泉博物館",
+        "place_en": "Beitou Hot Spring Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-20",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "淡水老街",
+        "place_en": "Tamsui Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-20",
+        "time": "afternoon",
+        "title": "",
+        "place": "南港LaLaPort",
+        "place_en": "Mitsui LaLaPort Nangang",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-20",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "談心聯誼",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-20",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-21",
+        "time": "morning",
+        "title": "藝文饗宴體驗",
+        "place": "國立海洋科技博物館",
+        "place_en": "National Museum of Marine Science and Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-21",
+        "time": "afternoon",
+        "title": "特色活動",
+        "place": "金明昌休閒農場手作體驗",
+        "place_en": "Jingmingchang Leisure Farm",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-21",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "談心聯誼",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-21",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-22",
+        "time": "all-day",
+        "title": "藝文饗宴體驗",
+        "place": "冬山河親水公園",
+        "place_en": "Dongshan River Water Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-22",
+        "time": "all-day",
+        "title": "",
+        "place": "國立傳統藝術中心",
+        "place_en": "National Center for Traditional Arts",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-22",
+        "time": "evening",
+        "title": "特色活動",
+        "place": "傳統香包手做DIY",
+        "place_en": "Traditional Sachet Making",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-22",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-23",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "總統府",
+        "place_en": "Office of the President R.O.C. (TAIWAN)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-23",
+        "time": "afternoon",
+        "title": "特色活動",
+        "place": "僑生全明星運動會",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-23",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "城市定向分組討論",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-23",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-24",
+        "time": "all-day",
+        "title": "亮點活動",
+        "place": "『城市定向臺北城深度探索』",
+        "place_en": "Taipei City Exploration",
+        "introduction": "特色路線：\n光華聚落、信義聚落、淡水聚落、臺大聚落、青田聚落、西門町聚落、士林聚落、大稻埕聚落",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-24",
+        "time": "evening",
+        "title": "",
+        "place": "城市定向心得分享與寫作",
+        "place_en": "City Orientation Experience Sharing",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-24",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-25",
+        "time": "morning",
+        "title": "",
+        "place": "成果發表彩排&問卷填寫",
+        "place_en": "Result Presentation Rehearsal",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-25",
+        "time": "afternoon",
+        "title": "成果發表暨結業式",
+        "place": "",
+        "place_en": "Closing Ceremony",
+        "introduction": "(僑委會主持)",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-25",
+        "time": "evening",
+        "title": "惜別晚宴",
+        "place": "",
+        "place_en": "Farewell Dinner",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-25",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "1",
+        "date": "2026-01-26",
+        "time": "all-dayandnight",
+        "title": "",
+        "place": "桃園機場送機&返回僑居地",
+        "place_en": "Checkout&Return Home",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "1",
+        "date": "2026-01-26",
+        "time": "accommodation",
+        "title": "",
+        "place": "溫暖的家",
+        "place_en": "Sweet Home",
+        "introduction": "",
+        "introduction_en": ""
+      }
+    ],
+    "3": [
+      {
+        "session": "3",
+        "date": "2026-04-10",
+        "time": "morning",
+        "title": "",
+        "place": "桃園機場接機",
+        "place_en": "Airport Pickup",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-10",
+        "time": "afternoon",
+        "title": "",
+        "place": "學員報到、報平安、環境介紹",
+        "place_en": "Check in",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-10",
+        "time": "evening",
+        "title": "",
+        "place": "生活說明會",
+        "place_en": "Code of Conduct Orientation",
+        "introduction": "認識輔導員工作團隊及小隊夥伴",
+        "introduction_en": "Introduction to the counseling team and teammates"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-10",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-11",
+        "time": "morning",
+        "title": "政策宣導",
+        "place": "臺灣政經發展與國情簡介",
+        "place_en": "Introduce to Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-11",
+        "time": "morning",
+        "title": "行銷實務",
+        "place": "自媒體行銷課程",
+        "place_en": "Self-Media Marketing Course",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-11",
+        "time": "afternoon",
+        "title": "政策宣導",
+        "place": "僑委會簡介",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-11",
+        "time": "afternoon",
+        "title": "",
+        "place": "始業式(僑委會主持)",
+        "place_en": "Opening Ceremony",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-11",
+        "time": "afternoon",
+        "title": "",
+        "place": "小隊聯誼",
+        "place_en": "Team Building",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-11",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "士林夜市",
+        "place_en": "Shilin Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-11",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-12",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "國立故宮博物院",
+        "place_en": "National Palace Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-12",
+        "time": "afternoon",
+        "title": "認識臺灣多元文化",
+        "place": "凱達格蘭文化館",
+        "place_en": "Ketagalan Culture Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-12",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "北投溫泉博物館&北投公園",
+        "place_en": "Beitou Hot Spring Museum & Beitou Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-12",
+        "time": "evening",
+        "title": "人文教育探索",
+        "place": "淡水老街",
+        "place_en": "Tamsui Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-12",
+        "time": "evening",
+        "title": "",
+        "place": "行前準備",
+        "place_en": "Preparation",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-12",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-13",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "臺北醫學大學",
+        "place_en": "Taipei Medical University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-13",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "臺北101",
+        "place_en": "Taipei 101",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-13",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "四四南村",
+        "place_en": "Four Four South Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-13",
+        "time": "afternoon",
+        "title": "",
+        "place": "大溪老街",
+        "place_en": "Daxi Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-13",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "角板山生態巡禮",
+        "place_en": "Jiaobanshan Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-13",
+        "time": "accommodation",
+        "title": "",
+        "place": "復興青年活動中心",
+        "place_en": "Fuhsing Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://fuhsing.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-14",
+        "time": "morning",
+        "title": "產經參訪",
+        "place": "國家太空中心",
+        "place_en": "Taiwan Space Agency",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-14",
+        "time": "afternoon",
+        "title": "產經參訪",
+        "place": "廣興紙寮",
+        "place_en": "",
+        "introduction": "手做DIY",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-14",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "日月潭文武廟",
+        "place_en": "Wenwu Temple",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-14",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "夜逛日月潭：伊達邵原民商圈",
+        "place_en": "Ita Thao Pier",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-14",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-15",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "車埕車站",
+        "place_en": "Checheng Railway Station",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-15",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "向山遊客中心",
+        "place_en": "Xiangshan Visitor Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-15",
+        "time": "afternoon",
+        "title": "",
+        "place": "日月潭遊湖",
+        "place_en": "Sun Moon Lake Boat Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-15",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "創意晚會",
+        "place_en": "Party Night",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-15",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-16",
+        "time": "morning",
+        "title": "影片欣賞-生態環境",
+        "place": "齊柏林【看見臺灣】",
+        "place_en": "Appreciate the movie: Beyond Beauty - TAIWAN FROM ABOVE",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-16",
+        "time": "morning",
+        "title": "臺灣文創新據點",
+        "place": "檜意森活村",
+        "place_en": "Hinoki Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-16",
+        "time": "afternoon",
+        "title": "學校招生宣導及青年交流",
+        "place": "吳鳳科技大學",
+        "place_en": "Wufeng University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-16",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "運動團康",
+        "place_en": "Sports Team-Building Activities",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-16",
+        "time": "accommodation",
+        "title": "",
+        "place": "曾文青年活動中心",
+        "place_en": "Tsengwen Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://tsengwen.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-17",
+        "time": "morning",
+        "title": "臺灣歷史巡禮",
+        "place": "國立臺灣歷史博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-17",
+        "time": "afternoon",
+        "title": "學校招生宣導及青年交流",
+        "place": "國立成功大學",
+        "place_en": "National Cheng Kung University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-17",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "武聖夜市",
+        "place_en": "Wusheng Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-17",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel台南館",
+        "place_en": "F-Hotel Tainan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-18",
+        "time": "morning",
+        "title": "臺灣歷史巡禮",
+        "place": "安平古堡/劍獅巡禮",
+        "place_en": "Anping Old Fort / Taiwan Sword Lion Visit",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-18",
+        "time": "afternoon",
+        "title": "認識臺灣防災教育",
+        "place": "921地震教育園區",
+        "place_en": "921 Earthquake Museum of Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-18",
+        "time": "afternoon",
+        "title": "臺灣文創新據點",
+        "place": "臺中光復新村",
+        "place_en": "Taichung Guangfu New Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-18",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "逢甲夜市",
+        "place_en": "Fengchia Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-18",
+        "time": "accommodation",
+        "title": "",
+        "place": "臺中友愛飯店",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-19",
+        "time": "morning",
+        "title": "藝文饗宴體驗",
+        "place": "國立自然科學博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-19",
+        "time": "afternoon",
+        "title": "認識臺灣多元文化",
+        "place": "臺灣客家文化館",
+        "place_en": "Taiwan Hakka Culture Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-19",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "花博公園圓山園區",
+        "place_en": "Taipei EXPO Park (Yuanshan)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-19",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-20",
+        "time": "morning",
+        "title": "生態環境探索",
+        "place": "野柳地質公園",
+        "place_en": "Yehliu Geopark",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-20",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "金山老街",
+        "place_en": "Jinshan Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-20",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "國立海洋科技博物館",
+        "place_en": "National Museum of Marine Science and Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-20",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "城市定向分組討論",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-20",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-21",
+        "time": "all-day",
+        "title": "亮點活動",
+        "place": "『城市定向臺北城深度探索』",
+        "place_en": "Taipei City Exploration",
+        "introduction": "特色路線：\n光華聚落、信義聚落、淡水聚落、臺大聚落、青田聚落、西門町聚落、士林聚落、大稻埕聚落",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-21",
+        "time": "evening",
+        "title": "",
+        "place": "城市定向心得分享與寫作",
+        "place_en": "City Orientation Experience Sharing",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-21",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-22",
+        "time": "morning",
+        "title": "",
+        "place": "成果發表彩排&問卷填寫",
+        "place_en": "Result Presentation Rehearsal",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-22",
+        "time": "afternoon",
+        "title": "成果發表暨結業式",
+        "place": "",
+        "place_en": "Closing Ceremony",
+        "introduction": "(僑委會主持)",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-22",
+        "time": "evening",
+        "title": "惜別晚宴",
+        "place": "",
+        "place_en": "Farewell Dinner",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-22",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "3",
+        "date": "2026-04-23",
+        "time": "all-dayandnight",
+        "title": "",
+        "place": "桃園機場送機&返回僑居地",
+        "place_en": "Checkout&Return Home",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "3",
+        "date": "2026-04-23",
+        "time": "accommodation",
+        "title": "",
+        "place": "溫暖的家",
+        "place_en": "Sweet Home",
+        "introduction": "",
+        "introduction_en": ""
+      }
+    ],
+    "5": [
+      {
+        "session": "5",
+        "date": "2026-06-21",
+        "time": "morning",
+        "title": "",
+        "place": "桃園機場接機",
+        "place_en": "Airport Pickup",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-21",
+        "time": "afternoon",
+        "title": "",
+        "place": "學員報到、報平安、環境介紹",
+        "place_en": "Check in",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-21",
+        "time": "evening",
+        "title": "",
+        "place": "生活說明會",
+        "place_en": "Code of Conduct Orientation",
+        "introduction": "認識輔導員工作團隊及小隊夥伴",
+        "introduction_en": "Introduction to the counseling team and teammates"
+      },
+      {
+        "session": "5",
+        "date": "2026-06-21",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-06-22",
+        "time": "morning",
+        "title": "政策宣導",
+        "place": "臺灣政經發展與國情簡介",
+        "place_en": "Introduce to Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-22",
+        "time": "morning",
+        "title": "行銷實務",
+        "place": "自媒體行銷課程",
+        "place_en": "Self-Media Marketing Course",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-22",
+        "time": "afternoon",
+        "title": "政策宣導",
+        "place": "僑委會簡介",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-22",
+        "time": "afternoon",
+        "title": "",
+        "place": "始業式(僑委會主持)",
+        "place_en": "Opening Ceremony",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-22",
+        "time": "afternoon",
+        "title": "",
+        "place": "小隊聯誼",
+        "place_en": "Team Building",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-22",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "士林夜市",
+        "place_en": "Shilin Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-22",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-06-23",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "中國科技大學",
+        "place_en": "China University of Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-23",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "臺北市立動物園",
+        "place_en": "Taipei Zoo",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-23",
+        "time": "afternoon",
+        "title": "政經建設參訪",
+        "place": "臺北101特色商圈",
+        "place_en": "Taipei 101",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-23",
+        "time": "evening",
+        "title": "",
+        "place": "行前準備",
+        "place_en": "Preparation",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-23",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-06-24",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "國立故宮博物院",
+        "place_en": "National Palace Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-24",
+        "time": "afternoon",
+        "title": "產經參訪",
+        "place": "桃漾館",
+        "place_en": "North Taoyuan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-24",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "角板山夜間生態巡禮",
+        "place_en": "Jiaobanshan Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-24",
+        "time": "accommodation",
+        "title": "",
+        "place": "復興青年活動中心",
+        "place_en": "Fuhsing Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://fuhsing.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-06-25",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "大溪老街",
+        "place_en": "Daxi Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-25",
+        "time": "afternoon",
+        "title": "產經參訪",
+        "place": "國家太空中心",
+        "place_en": "Taiwan Space Agency",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-25",
+        "time": "afternoon",
+        "title": "",
+        "place": "臺積創新館",
+        "place_en": "TMSC Museum of Innovation",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-25",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "夜逛日月潭：伊達邵原民商圈",
+        "place_en": "Ita Thao Pier",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-25",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-06-26",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "車埕車站",
+        "place_en": "Checheng Railway Station",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-26",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "向山遊客中心",
+        "place_en": "Xiangshan Visitor Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-26",
+        "time": "afternoon",
+        "title": "",
+        "place": "日月潭遊湖",
+        "place_en": "Sun Moon Lake Boat Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-26",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "創意晚會",
+        "place_en": "Party Night",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-26",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-06-27",
+        "time": "morning",
+        "title": "影片欣賞-生態環境",
+        "place": "齊柏林【看見臺灣】",
+        "place_en": "Appreciate the movie: Beyond Beauty - TAIWAN FROM ABOVE",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-27",
+        "time": "morning",
+        "title": "臺灣文創新據點",
+        "place": "檜意森活村",
+        "place_en": "Hinoki Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-27",
+        "time": "afternoon",
+        "title": "臺灣歷史巡禮",
+        "place": "國立臺灣歷史博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-27",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "武聖夜市",
+        "place_en": "Wusheng Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-27",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel臺南館(或同等級)",
+        "place_en": "F-Hotel Tainan (or Equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-28",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "安平古堡/安平老街/劍獅巡禮",
+        "place_en": "Anping Old Fort & Old Street / Sword Lion Visit",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-28",
+        "time": "afternoon",
+        "title": "產經參訪",
+        "place": "沙崙智慧綠能科學城",
+        "place_en": "Shalun Smart Green Energy Science City",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-28",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "臺南三井Outlet",
+        "place_en": "Mitsui Tainan Outlet",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-28",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "臺南神農街",
+        "place_en": "Tainan Shennong Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-28",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel臺南館(或同等級)",
+        "place_en": "F-Hotel Tainan (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-29",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "鹿港老街",
+        "place_en": "Lukang Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-29",
+        "time": "afternoon",
+        "title": "學校招生宣導及青年交流",
+        "place": "靜宜大學",
+        "place_en": "Providence University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-29",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "逢甲形象商圈",
+        "place_en": "Fengchia Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-29",
+        "time": "accommodation",
+        "title": "",
+        "place": "臺中丰居一中館或同等級",
+        "place_en": "Fengjia One Zhong Hotel, Taichung (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-30",
+        "time": "morning",
+        "title": "藝文饗宴體驗",
+        "place": "國立自然科學博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-30",
+        "time": "afternoon",
+        "title": "認識臺灣多元文化",
+        "place": "湖口好客文創園區",
+        "place_en": "Hukou Hakka Creative Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-30",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "花博公園圓山園區",
+        "place_en": "Taipei EXPO Park (Yuanshan)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-06-30",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-07-01",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "真理大學",
+        "place_en": "Aletheia University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-01",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "淡水老街",
+        "place_en": "Tamsui Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-01",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "北投溫泉博物館",
+        "place_en": "Beitou Hot Spring Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-01",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "城市定向分組討論",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-01",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-07-02",
+        "time": "all-day",
+        "title": "亮點活動",
+        "place": "『城市定向臺北城深度探索』",
+        "place_en": "Taipei City Exploration",
+        "introduction": "特色路線：\n光華聚落、信義聚落、淡水聚落、臺大聚落、青田聚落、西門町聚落、士林聚落、大稻埕聚落",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-02",
+        "time": "evening",
+        "title": "",
+        "place": "城市定向心得分享與寫作",
+        "place_en": "City Orientation Experience Sharing",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-02",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-07-02",
+        "time": "morning",
+        "title": "藝文饗宴體驗",
+        "place": "臺北市立美術館",
+        "place_en": "Taipei Fine Art Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-03",
+        "time": "morning",
+        "title": "",
+        "place": "成果發表彩排&問卷填寫",
+        "place_en": "Result Presentation Rehearsal",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-03",
+        "time": "afternoon",
+        "title": "成果發表暨結業式",
+        "place": "",
+        "place_en": "Closing Ceremony",
+        "introduction": "(僑委會主持)",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-03",
+        "time": "evening",
+        "title": "惜別晚宴",
+        "place": "",
+        "place_en": "Farewell Dinner",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-03",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "5",
+        "date": "2026-07-04",
+        "time": "all-dayandnight",
+        "title": "",
+        "place": "桃園機場送機&返回僑居地",
+        "place_en": "Checkout&Return Home",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "5",
+        "date": "2026-07-04",
+        "time": "accommodation",
+        "title": "",
+        "place": "溫暖的家",
+        "place_en": "Sweet Home",
+        "introduction": "",
+        "introduction_en": ""
+      }
+    ],
+    "6": [
+      {
+        "session": "6",
+        "date": "2026-08-01",
+        "time": "morning",
+        "title": "",
+        "place": "桃園機場接機",
+        "place_en": "Airport Pickup",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-01",
+        "time": "afternoon",
+        "title": "",
+        "place": "學員報到、報平安、環境介紹",
+        "place_en": "Check in",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-01",
+        "time": "evening",
+        "title": "",
+        "place": "生活說明會",
+        "place_en": "Code of Conduct Orientation",
+        "introduction": "認識輔導員工作團隊及小隊夥伴",
+        "introduction_en": "Introduction to the counseling team and teammates"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-01",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-02",
+        "time": "morning",
+        "title": "政策宣導",
+        "place": "臺灣政經發展與國情簡介",
+        "place_en": "Introduce to Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-02",
+        "time": "morning",
+        "title": "行銷實務",
+        "place": "自媒體行銷課程",
+        "place_en": "Self-Media Marketing Course",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-02",
+        "time": "afternoon",
+        "title": "政策宣導",
+        "place": "僑委會簡介",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-02",
+        "time": "afternoon",
+        "title": "",
+        "place": "始業式(僑委會主持)",
+        "place_en": "Opening Ceremony",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-02",
+        "time": "afternoon",
+        "title": "",
+        "place": "小隊聯誼",
+        "place_en": "Team Building",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-02",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "士林夜市",
+        "place_en": "Shilin Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-02",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-03",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "總統府",
+        "place_en": "Office of the President R.O.C. (TAIWAN)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-03",
+        "time": "afternoon",
+        "title": "政經建設參訪",
+        "place": "臺北101",
+        "place_en": "Taipei 101",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-03",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "四四南村",
+        "place_en": "Four Four South Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-03",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "談心聯誼",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-03",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-04",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "國立故宮博物院",
+        "place_en": "National Palace Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-04",
+        "time": "morning",
+        "title": "認識臺灣多元文化",
+        "place": "原住民文化主題公園",
+        "place_en": "Indigenous People's Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-04",
+        "time": "afternoon",
+        "title": "政經建設參訪",
+        "place": "臺北忠烈祠",
+        "place_en": "National Revolutionary Martyrs’ Shrine",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-04",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "紅樹林生態教育館",
+        "place_en": "Mangrove Ecocenter",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-04",
+        "time": "evening",
+        "title": "人文教育探索",
+        "place": "淡水老街",
+        "place_en": "Tamsui Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-05",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "中國科技大學",
+        "place_en": "China University of Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-05",
+        "time": "afternoon",
+        "title": "產經參訪",
+        "place": "廣興紙寮",
+        "place_en": "",
+        "introduction": "手做DIY",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-05",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "日月潭文武廟",
+        "place_en": "Wenwu Temple",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-05",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "夜逛日月潭：伊達邵原民商圈",
+        "place_en": "Ita Thao Pier",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-05",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-06",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "車埕車站",
+        "place_en": "Checheng Railway Station",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-06",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "向山遊客中心",
+        "place_en": "Xiangshan Visitor Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-06",
+        "time": "afternoon",
+        "title": "",
+        "place": "日月潭遊湖",
+        "place_en": "Sun Moon Lake Boat Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-06",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "創意晚會",
+        "place_en": "Party Night",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-06",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-07",
+        "time": "morning",
+        "title": "影片欣賞-生態環境",
+        "place": "齊柏林【看見臺灣】",
+        "place_en": "Appreciate the movie: Beyond Beauty - TAIWAN FROM ABOVE",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-07",
+        "time": "morning",
+        "title": "臺灣文創新據點",
+        "place": "檜意森活村",
+        "place_en": "Hinoki Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-07",
+        "time": "afternoon",
+        "title": "學校招生宣導及青年交流",
+        "place": "國立成功大學",
+        "place_en": "National Cheng Kung University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-07",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "武聖夜市",
+        "place_en": "Wusheng Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-07",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel臺南館(或同等級)",
+        "place_en": "F-Hotel Tainan (or Equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-08",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "安平古堡/劍獅巡禮",
+        "place_en": "Anping Old Fort / Sword Lion Visit",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-08",
+        "time": "afternoon",
+        "title": "臺灣歷史巡禮",
+        "place": "國立臺灣歷史博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-08",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "臺南三井Outlet",
+        "place_en": "Mitsui Tainan Outlet",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-08",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel臺南館(或同等級)",
+        "place_en": "F-Hotel Tainan (or Equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-09",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "臺南孔廟園區",
+        "place_en": "Tainan Confucian Temple",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-09",
+        "time": "afternoon",
+        "title": "藝文饗宴體驗",
+        "place": "國立自然科學博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-09",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "逢甲形象商圈",
+        "place_en": "Fengchia Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-09",
+        "time": "accommodation",
+        "title": "",
+        "place": "臺中丰居一中館或同等級",
+        "place_en": "Fengjia One Zhong Hotel, Taichung (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-10",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "靜宜大學",
+        "place_en": "Providence University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-10",
+        "time": "afternoon",
+        "title": "認識臺灣多元文化",
+        "place": "臺灣客家文化館",
+        "place_en": "Taiwan Hakka Culture Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-10",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "花博公園圓山園區",
+        "place_en": "Taipei EXPO Park (Yuanshan)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-10",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-11",
+        "time": "morning",
+        "title": "生態環境探索",
+        "place": "野柳地質公園",
+        "place_en": "Yehliu Geopark",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-11",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "金山老街",
+        "place_en": "Jinshan Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-11",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "國立海洋科技博物館",
+        "place_en": "National Museum of Marine Science and Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-11",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "城市定向分組討論",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-11",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-12",
+        "time": "all-day",
+        "title": "亮點活動",
+        "place": "『城市定向臺北城深度探索』",
+        "place_en": "Taipei City Exploration",
+        "introduction": "特色路線：\n光華聚落、信義聚落、淡水聚落、臺大聚落、青田聚落、西門町聚落、士林聚落、大稻埕聚落",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-12",
+        "time": "evening",
+        "title": "",
+        "place": "城市定向心得分享與寫作",
+        "place_en": "City Orientation Experience Sharing",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-12",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-13",
+        "time": "morning",
+        "title": "藝文饗宴體驗",
+        "place": "臺北市立美術館",
+        "place_en": "Taipei Fine Art Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-13",
+        "time": "morning",
+        "title": "",
+        "place": "成果發表彩排&問卷填寫",
+        "place_en": "Result Presentation Rehearsal",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-13",
+        "time": "afternoon",
+        "title": "成果發表暨結業式",
+        "place": "",
+        "place_en": "Closing Ceremony",
+        "introduction": "(僑委會主持)",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-13",
+        "time": "evening",
+        "title": "惜別晚宴",
+        "place": "",
+        "place_en": "Farewell Dinner",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-13",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "6",
+        "date": "2026-08-14",
+        "time": "all-dayandnight",
+        "title": "",
+        "place": "桃園機場送機&返回僑居地",
+        "place_en": "Checkout&Return Home",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "6",
+        "date": "2026-08-14",
+        "time": "accommodation",
+        "title": "",
+        "place": "溫暖的家",
+        "place_en": "Sweet Home",
+        "introduction": "",
+        "introduction_en": ""
+      }
+    ],
+    "7": [
+      {
+        "session": "7",
+        "date": "2026-12-07",
+        "time": "morning",
+        "title": "",
+        "place": "桃園機場接機",
+        "place_en": "Airport Pickup",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-07",
+        "time": "afternoon",
+        "title": "",
+        "place": "學員報到、報平安、環境介紹",
+        "place_en": "Check in",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-07",
+        "time": "evening",
+        "title": "",
+        "place": "生活說明會",
+        "place_en": "Code of Conduct Orientation",
+        "introduction": "認識輔導員工作團隊及小隊夥伴",
+        "introduction_en": "Introduction to the counseling team and teammates"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-07",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-08",
+        "time": "morning",
+        "title": "政策宣導",
+        "place": "臺灣政經發展與國情簡介",
+        "place_en": "Introduce to Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-08",
+        "time": "morning",
+        "title": "行銷實務",
+        "place": "自媒體行銷課程",
+        "place_en": "Self-Media Marketing Course",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-08",
+        "time": "afternoon",
+        "title": "政策宣導",
+        "place": "僑委會簡介",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-08",
+        "time": "afternoon",
+        "title": "",
+        "place": "始業式(僑委會主持)",
+        "place_en": "Opening Ceremony",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-08",
+        "time": "afternoon",
+        "title": "",
+        "place": "小隊聯誼",
+        "place_en": "Team Building",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-08",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "士林夜市",
+        "place_en": "Shilin Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-08",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-09",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "國立故宮博物院",
+        "place_en": "National Palace Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-09",
+        "time": "afternoon",
+        "title": "學校招生宣導及青年交流",
+        "place": "真理大學",
+        "place_en": "Aletheia University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-09",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "淡水老街",
+        "place_en": "Tamsui Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-09",
+        "time": "evening",
+        "title": "",
+        "place": "行前準備",
+        "place_en": "Preparation",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-09",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-10",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "景文科技大學",
+        "place_en": "Jingwen University of Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-10",
+        "time": "afternoon",
+        "title": "政經建設參訪",
+        "place": "臺北101",
+        "place_en": "Taipei 101",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-10",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "大溪老街",
+        "place_en": "Daxi Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-10",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "角板山生態巡禮",
+        "place_en": "Jiaobanshan Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-10",
+        "time": "accommodation",
+        "title": "",
+        "place": "復興青年活動中心",
+        "place_en": "Fuhsing Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://fuhsing.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-11",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "靜宜大學",
+        "place_en": "Providence University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-11",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "向山遊客中心",
+        "place_en": "Xiangshan Visitor Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-11",
+        "time": "afternoon",
+        "title": "",
+        "place": "日月潭遊湖",
+        "place_en": "Sun Moon Lake Boat Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-11",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "夜逛日月潭：伊達邵原民商圈",
+        "place_en": "Ita Thao Pier",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-11",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-12",
+        "time": "all-day",
+        "title": "在地生活探索",
+        "place": "日月潭纜車",
+        "place_en": "Sun Moon Lake Ropeway",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-12",
+        "time": "all-day",
+        "title": "認識臺灣多元文化",
+        "place": "九族文化村",
+        "place_en": "Formosan Aboriginal Culture Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-12",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "創意晚會",
+        "place_en": "Party Night",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-12",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-13",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "車埕車站",
+        "place_en": "Checheng Railway Station",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-13",
+        "time": "afternoon",
+        "title": "生態教育探索",
+        "place": "溪頭妖怪村&溪頭自然教育園區",
+        "place_en": "Xitou Monster Village & Xitou Nature Education Area",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-13",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "談心聯誼",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-13",
+        "time": "accommodation",
+        "title": "",
+        "place": "溪頭青年活動中心",
+        "place_en": "Xitou Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chitou.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-14",
+        "time": "morning",
+        "title": "影片欣賞-生態環境",
+        "place": "齊柏林【看見臺灣】",
+        "place_en": "Appreciate the movie: Beyond Beauty - TAIWAN FROM ABOVE",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-14",
+        "time": "morning",
+        "title": "臺灣文創新據點",
+        "place": "檜意森活村",
+        "place_en": "Hinoki Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-14",
+        "time": "afternoon",
+        "title": "產業參訪",
+        "place": "沙崙智慧綠能科學城",
+        "place_en": "Shalun Smart Green Energy Science City",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-14",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "臺南三井Outlet",
+        "place_en": "Mitsui Tainan Outlet",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-14",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "運動團康",
+        "place_en": "Sports Team-Building Activities",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-14",
+        "time": "accommodation",
+        "title": "",
+        "place": "曾文青年活動中心",
+        "place_en": "Tsengwen Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://tsengwen.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-15",
+        "time": "morning",
+        "title": "在地生活探索",
+        "place": "打狗英國領事館文化園區",
+        "place_en": "The British Consulate at Takow Cultural Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-15",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "旗津渡輪/老街",
+        "place_en": "Cijin-Gushan Ferry&Cijin Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-15",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "高雄捷運巡禮",
+        "place_en": "Kaohsiung MRT Cultural & City Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-15",
+        "time": "accommodation",
+        "title": "",
+        "place": "高雄康橋旅店或同等",
+        "place_en": "Kindness Hotel (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-16",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "高雄駁二藝術特區",
+        "place_en": "Pier-2 Art Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-16",
+        "time": "afternoon",
+        "title": "生態教育探索",
+        "place": "鵝鑾鼻燈塔",
+        "place_en": "Eluanbi Lighthouse",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-16",
+        "time": "afternoon",
+        "title": "",
+        "place": "龍磐大草原",
+        "place_en": "Longpan Prairie",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-16",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "墾丁大街",
+        "place_en": "Kenting Main Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-16",
+        "time": "accommodation",
+        "title": "",
+        "place": "墾丁青年活動中心",
+        "place_en": "Kenting Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://kenting.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-17",
+        "time": "morning",
+        "title": "生態教育探索",
+        "place": "墾丁社頂自然公園",
+        "place_en": "Kenting Sheding Nature Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-17",
+        "time": "afternoon",
+        "title": "生態教育探索",
+        "place": "國立海洋生物博物館",
+        "place_en": "National Museum of Marine Biology and Aquarium",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-17",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-17",
+        "time": "accommodation",
+        "title": "",
+        "place": "墾丁青年活動中心",
+        "place_en": "Kenting Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://kenting.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-18",
+        "time": "morning",
+        "title": "認識臺灣多元文化",
+        "place": "屏東六堆客家文化園區",
+        "place_en": "Liudui Hakka Cultural Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-18",
+        "time": "afternoon",
+        "title": "臺灣歷史巡禮",
+        "place": "國立臺灣歷史博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-18",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "武聖夜市",
+        "place_en": "Wusheng Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-18",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel臺南館(或同等級)",
+        "place_en": "F-Hotel Tainan (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-19",
+        "time": "morning",
+        "title": "臺灣歷史巡禮",
+        "place": "安平老街",
+        "place_en": "Anping Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-19",
+        "time": "afternoon",
+        "title": "藝文饗宴體驗",
+        "place": "國立自然科學博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-19",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "逢甲夜市",
+        "place_en": "Fengchia Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-19",
+        "time": "accommodation",
+        "title": "",
+        "place": "臺中丰居一中館或同等級",
+        "place_en": "Fengjia One Zhong Hotel, Taichung (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-20",
+        "time": "morning",
+        "title": "生態環境探索",
+        "place": "高美濕地",
+        "place_en": "Gaomei Wetland Preservation Area",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-20",
+        "time": "afternoon",
+        "title": "認識臺灣多元文化",
+        "place": "KIRI國際原住民文創園區",
+        "place_en": "KIRI International Indigenous Cultural and Creative Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-20",
+        "time": "evening",
+        "title": "整備行李及小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-20",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-21",
+        "time": "morning",
+        "title": "生態環境探索",
+        "place": "新北市黃金博物館",
+        "place_en": "New Taipei City Gold Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-21",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "九份老街",
+        "place_en": "Jiufen Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-21",
+        "time": "afternoon",
+        "title": "政經建設參訪",
+        "place": "臺北忠烈祠",
+        "place_en": "National Revolutionary Martyrs’ Shrine",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-21",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "花博公園(圓山園區)",
+        "place_en": "Taipei EXPO Park (Yuanshan)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-21",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-22",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "總統府",
+        "place_en": "Office of the President R.O.C. (TAIWAN)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-22",
+        "time": "afternoon",
+        "title": "產經參訪",
+        "place": "救國團受託運動中心體驗",
+        "place_en": "Sports Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-22",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "新北歡樂耶誕城",
+        "place_en": "Christmasland in New Taipei City",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-22",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-23",
+        "time": "all-day",
+        "title": "藝文饗宴體驗",
+        "place": "冬山河親水公園",
+        "place_en": "Dongshan River Water Park",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-23",
+        "time": "all-day",
+        "title": "",
+        "place": "國立傳統藝術中心",
+        "place_en": "National Center for Traditional Arts",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-23",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-23",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-24",
+        "time": "morning",
+        "title": "生態環境探索",
+        "place": "十分瀑布",
+        "place_en": "Shifen Waterfall",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-24",
+        "time": "morning",
+        "title": "在地生活探索",
+        "place": "十分車站【放天燈】",
+        "place_en": "Shifen Station / Release a Sky Lantern",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-24",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "野柳地質公園",
+        "place_en": "Yehliu Geopark",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-24",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "聖誕晚會",
+        "place_en": "Christmas Party",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-24",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "城市定向分組討論",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-24",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-25",
+        "time": "all-day",
+        "title": "亮點活動",
+        "place": "『城市定向臺北城深度探索』",
+        "place_en": "Taipei City Exploration",
+        "introduction": "特色路線：\n光華聚落、信義聚落、淡水聚落、臺大聚落、青田聚落、西門町聚落、士林聚落、大稻埕聚落",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-25",
+        "time": "evening",
+        "title": "",
+        "place": "城市定向心得分享與寫作",
+        "place_en": "City Orientation Experience Sharing",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-25",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-26",
+        "time": "morning",
+        "title": "藝文饗宴體驗",
+        "place": "臺北市立美術館",
+        "place_en": "Taipei Fine Art Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-26",
+        "time": "morning",
+        "title": "",
+        "place": "成果發表彩排&問卷填寫",
+        "place_en": "Result Presentation Rehearsal",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-26",
+        "time": "afternoon",
+        "title": "成果發表暨結業式",
+        "place": "",
+        "place_en": "Closing Ceremony",
+        "introduction": "(僑委會主持)",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-26",
+        "time": "evening",
+        "title": "惜別晚宴",
+        "place": "",
+        "place_en": "Farewell Dinner",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-26",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "7",
+        "date": "2026-12-27",
+        "time": "all-dayandnight",
+        "title": "",
+        "place": "桃園機場送機&返回僑居地",
+        "place_en": "Checkout&Return Home",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "7",
+        "date": "2026-12-27",
+        "time": "accommodation",
+        "title": "",
+        "place": "溫暖的家",
+        "place_en": "Sweet Home",
+        "introduction": "",
+        "introduction_en": ""
+      }
+    ],
+    "8": [
+      {
+        "session": "8",
+        "date": "2026-12-13",
+        "time": "morning",
+        "title": "",
+        "place": "桃園機場接機",
+        "place_en": "Airport Pickup",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-13",
+        "time": "afternoon",
+        "title": "",
+        "place": "學員報到、報平安、環境介紹",
+        "place_en": "Check in",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-13",
+        "time": "evening",
+        "title": "",
+        "place": "生活說明會",
+        "place_en": "Code of Conduct Orientation",
+        "introduction": "認識輔導員工作團隊及小隊夥伴",
+        "introduction_en": "Introduction to the counseling team and teammates"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-13",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-14",
+        "time": "morning",
+        "title": "政策宣導",
+        "place": "臺灣政經發展與國情簡介",
+        "place_en": "Introduce to Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-14",
+        "time": "morning",
+        "title": "行銷實務",
+        "place": "自媒體行銷課程",
+        "place_en": "Self-Media Marketing Course",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-14",
+        "time": "afternoon",
+        "title": "政策宣導",
+        "place": "僑委會簡介",
+        "place_en": "",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-14",
+        "time": "afternoon",
+        "title": "",
+        "place": "始業式(僑委會主持)",
+        "place_en": "Opening Ceremony",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-14",
+        "time": "afternoon",
+        "title": "",
+        "place": "小隊聯誼",
+        "place_en": "Team Building",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-14",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "士林夜市",
+        "place_en": "Shilin Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-14",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-15",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "景文科技大學",
+        "place_en": "Jingwen University of Technology",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-15",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "臺北市立動物園",
+        "place_en": "Taipei Zoo",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-15",
+        "time": "afternoon",
+        "title": "政經建設參訪",
+        "place": "臺北101特色商圈",
+        "place_en": "Taipei 101",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-15",
+        "time": "evening",
+        "title": "",
+        "place": "行前準備",
+        "place_en": "Preparation",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-15",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-16",
+        "time": "morning",
+        "title": "學校招生宣導及青年交流",
+        "place": "靜宜大學",
+        "place_en": "Providence University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-16",
+        "time": "afternoon",
+        "title": "認識臺灣防災教育",
+        "place": "921地震教育園區",
+        "place_en": "921 Earthquake Museum of Taiwan",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-16",
+        "time": "afternoon",
+        "title": "臺灣文創新據點",
+        "place": "臺中光復新村",
+        "place_en": "Taichung Guangfu New Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-16",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "夜逛日月潭：伊達邵原民商圈",
+        "place_en": "Ita Thao Pier",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-16",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-17",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "車埕車站",
+        "place_en": "Checheng Railway Station",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-17",
+        "time": "afternoon",
+        "title": "生態環境探索",
+        "place": "向山遊客中心",
+        "place_en": "Xiangshan Visitor Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-17",
+        "time": "afternoon",
+        "title": "",
+        "place": "日月潭遊湖",
+        "place_en": "Sun Moon Lake Boat Tour",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-17",
+        "time": "evening",
+        "title": "青春之夜",
+        "place": "創意晚會",
+        "place_en": "Party Night",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-17",
+        "time": "accommodation",
+        "title": "",
+        "place": "日月潭青年活動中心",
+        "place_en": "Sun Moon Lake Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://sun.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-18",
+        "time": "morning",
+        "title": "影片欣賞-生態環境",
+        "place": "齊柏林【看見臺灣】",
+        "place_en": "Appreciate the movie: Beyond Beauty - TAIWAN FROM ABOVE",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-18",
+        "time": "morning",
+        "title": "臺灣文創新據點",
+        "place": "檜意森活村",
+        "place_en": "Hinoki Village",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-18",
+        "time": "afternoon",
+        "title": "學校招生宣導及青年交流",
+        "place": "國立成功大學",
+        "place_en": "National Cheng Kung University",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-18",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "武聖夜市",
+        "place_en": "Wusheng Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-18",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel臺南館(或同等級)",
+        "place_en": "F-Hotel Tainan (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-19",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "安平古堡/劍獅巡禮",
+        "place_en": "Anping Old Fort / Sword Lion Visit",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-19",
+        "time": "afternoon",
+        "title": "臺灣歷史巡禮",
+        "place": "國立臺灣歷史博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-19",
+        "time": "afternoon",
+        "title": "產業參訪",
+        "place": "沙崙智慧綠能科學城",
+        "place_en": "Shalun Smart Green Energy Science City",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-19",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "臺南神農街",
+        "place_en": "Tainan Shennong Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-19",
+        "time": "accommodation",
+        "title": "",
+        "place": "F-Hotel臺南館(或同等級)",
+        "place_en": "F-Hotel Tainan (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-20",
+        "time": "morning",
+        "title": "人文教育探索",
+        "place": "臺南孔廟園區",
+        "place_en": "Tainan Confucian Temple",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-20",
+        "time": "afternoon",
+        "title": "藝文饗宴體驗",
+        "place": "國立自然科學博物館",
+        "place_en": "National Museum of Taiwan History",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-20",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "逢甲形象商圈",
+        "place_en": "Fengchia Night Market",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-20",
+        "time": "accommodation",
+        "title": "",
+        "place": "臺中丰居一中館或同等級",
+        "place_en": "Fengjia One Zhong Hotel, Taichung (or equivalent)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-21",
+        "time": "morning",
+        "title": "認識臺灣多元文化",
+        "place": "臺灣客家文化館",
+        "place_en": "Taiwan Hakka Culture Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-21",
+        "time": "afternoon",
+        "title": "產經參訪",
+        "place": "桃漾館",
+        "place_en": "North Taoyuan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-21",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "花博公園圓山園區",
+        "place_en": "Taipei EXPO Park (Yuanshan)",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-21",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-22",
+        "time": "morning",
+        "title": "政經建設參訪",
+        "place": "國立故宮博物院",
+        "place_en": "National Palace Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-22",
+        "time": "afternoon",
+        "title": "在地生活探索",
+        "place": "南港LaLaPort",
+        "place_en": "Mitsui LaLaPort Nangang",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-22",
+        "time": "evening",
+        "title": "在地生活探索",
+        "place": "新北歡樂耶誕城",
+        "place_en": "Christmasland in New Taipei City",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-22",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-23",
+        "time": "morning",
+        "title": "生態環境探索",
+        "place": "新北市黃金博物館",
+        "place_en": "New Taipei City Gold Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-23",
+        "time": "afternoon",
+        "title": "人文教育探索",
+        "place": "九份老街",
+        "place_en": "Jiufen Old Street",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-23",
+        "time": "afternoon",
+        "title": "政經建設參訪",
+        "place": "臺北忠烈祠",
+        "place_en": "National Revolutionary Martyrs’ Shrine",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-23",
+        "time": "evening",
+        "title": "小隊時間",
+        "place": "",
+        "place_en": "Group Activity",
+        "introduction": "城市定向分組討論",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-23",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-24",
+        "time": "all-day",
+        "title": "亮點活動",
+        "place": "『城市定向臺北城深度探索』",
+        "place_en": "Taipei City Exploration",
+        "introduction": "特色路線：\n光華聚落、信義聚落、淡水聚落、臺大聚落、青田聚落、西門町聚落、士林聚落、大稻埕聚落",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-24",
+        "time": "evening",
+        "title": "",
+        "place": "城市定向心得分享與寫作",
+        "place_en": "City Orientation Experience Sharing",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-24",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-25",
+        "time": "morning",
+        "title": "藝文饗宴體驗",
+        "place": "臺北市立美術館",
+        "place_en": "Taipei Fine Art Museum",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-25",
+        "time": "morning",
+        "title": "",
+        "place": "成果發表彩排&問卷填寫",
+        "place_en": "Result Presentation Rehearsal",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-25",
+        "time": "afternoon",
+        "title": "成果發表暨結業式",
+        "place": "",
+        "place_en": "Closing Ceremony",
+        "introduction": "(僑委會主持)",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-25",
+        "time": "evening",
+        "title": "聖誕惜別晚會",
+        "place": "",
+        "place_en": "Christmas Party",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-25",
+        "time": "accommodation",
+        "title": "",
+        "place": "劍潭青年活動中心",
+        "place_en": "Chientan Youth Activity Center",
+        "introduction": "",
+        "introduction_en": "https://chientan.cyh.org.tw/"
+      },
+      {
+        "session": "8",
+        "date": "2026-12-26",
+        "time": "all-dayandnight",
+        "title": "",
+        "place": "桃園機場送機&返回僑居地",
+        "place_en": "Checkout&Return Home",
+        "introduction": "",
+        "introduction_en": ""
+      },
+      {
+        "session": "8",
+        "date": "2026-12-26",
+        "time": "accommodation",
+        "title": "",
+        "place": "溫暖的家",
+        "place_en": "Sweet Home",
+        "introduction": "",
+        "introduction_en": ""
+      }
+    ]
+  },
+  "gallery": {
+    "1": [
+      {
+        "session": "1",
+        "fileName": "IMG_6221.JPG",
+        "description": "國立故宮博物院",
+        "description_en": "National Palace Museum"
+      },
+      {
+        "session": "1",
+        "fileName": "IMG_20260120_101347.jpg",
+        "description": "北投溫泉博物館",
+        "description_en": "Beitou Hot Spring Museum"
+      },
+      {
+        "session": "1",
+        "fileName": "IMG_2131.JPG",
+        "description": "高美濕地",
+        "description_en": "Gaomei Wetlands Reservation Area"
+      },
+      {
+        "session": "1",
+        "fileName": "IMG_6466.JPG",
+        "description": "日月潭遊湖",
+        "description_en": "Sun Moon Lake (Boat Tour)"
+      },
+      {
+        "session": "1",
+        "fileName": "IMG20260112153015.jpg",
+        "description": "溪頭森林教育園區",
+        "description_en": "Xitou Nature Education Area"
+      },
+      {
+        "session": "1",
+        "fileName": "IMG_6803.JPG",
+        "description": "臺南應用科技大學",
+        "description_en": "Tainan University of Technology"
+      },
+      {
+        "session": "1",
+        "fileName": "IMG_6978.JPG",
+        "description": "高雄捷運美麗島站 (光之穹頂)",
+        "description_en": "Formosa Boulevard Station, Kaohsiung Metro (\"Dome of Light\")"
+      },
+      {
+        "session": "1",
+        "fileName": "IMG20260116134849.jpg",
+        "description": "國立海洋生物博物館 (海藻森林)",
+        "description_en": "National Museum of Marine Biology and Aquarium (Kelp Forest Tank)"
+      }
+    ],
+    "3": [
+      {
+        "session": "3",
+        "fileName": "IMG_20250117_090427.jpg",
+        "description": "國立故宮博物院",
+        "description_en": "National Palace Museum"
+      },
+      {
+        "session": "3",
+        "fileName": "IMG_20250129_150736.jpg",
+        "description": "臺北市",
+        "description_en": "Taipei City"
+      }
+    ],
+    "5": [
+      {
+        "session": "5",
+        "fileName": "IMG_20250117_090427.jpg",
+        "description": "國立故宮博物院",
+        "description_en": "National Palace Museum"
+      },
+      {
+        "session": "5",
+        "fileName": "IMG_20250129_150736.jpg",
+        "description": "臺北市",
+        "description_en": "Taipei City"
+      }
+    ],
+    "6": [
+      {
+        "session": "6",
+        "fileName": "IMG_20250117_090427.jpg",
+        "description": "國立故宮博物院",
+        "description_en": "National Palace Museum"
+      },
+      {
+        "session": "6",
+        "fileName": "IMG_20250129_150736.jpg",
+        "description": "臺北市",
+        "description_en": "Taipei City"
+      }
+    ],
+    "7": [
+      {
+        "session": "7",
+        "fileName": "IMG_20250117_090427.jpg",
+        "description": "國立故宮博物院",
+        "description_en": "National Palace Museum"
+      },
+      {
+        "session": "7",
+        "fileName": "IMG_20250129_150736.jpg",
+        "description": "臺北市",
+        "description_en": "Taipei City"
+      }
+    ],
+    "8": [
+      {
+        "session": "8",
+        "fileName": "IMG_20250117_090427.jpg",
+        "description": "國立故宮博物院",
+        "description_en": "National Palace Museum"
+      },
+      {
+        "session": "8",
+        "fileName": "IMG_20250129_150736.jpg",
+        "description": "臺北市",
+        "description_en": "Taipei City"
+      }
+    ]
+  }
+}
