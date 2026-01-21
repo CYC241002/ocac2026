@@ -150,7 +150,7 @@
                 if (gallery && gallery[date.session]) {
                     gallery[date.session].forEach(photo => {
                         var photoCard = `
-                        <div class="col-6">
+                        <div class="col-12 col-md-6">
                             <div class="card mb-2" style="width: 100%;">
                                 <img class="card-img-top session-pic-card-img" src="img/session${date.session.toString().padStart(2, '0')}/pictures/${photo.fileName}" class="img-fluid rounded">
                                 <div class="card-body">
@@ -195,7 +195,10 @@
         }
     }).then(() => {
         var preloader = document.querySelector('.preloader');
-        preloader.style.display = 'none';
+        preloader.style.opacity = '0';
+        setTimeout(() => {
+            preloader.style.display = 'none';
+        }, 500);
     });
 
     function toChineseNum(number) {
