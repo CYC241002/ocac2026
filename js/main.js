@@ -195,10 +195,10 @@
         }
     }).then(() => {
         var preloader = document.querySelector('.preloader');
-        preloader.style.opacity = '0';
-        setTimeout(() => {
+        preloader.classList.add('fade-out');
+        preloader.addEventListener('animationend', () => {
             preloader.style.display = 'none';
-        }, 500);
+        });
     });
 
     function toChineseNum(number) {

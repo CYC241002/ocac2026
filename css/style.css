@@ -15,6 +15,15 @@ body {
     }
 }
 
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
 @keyframes fadeInUp {
     0% {
         opacity: 0;
@@ -57,6 +66,11 @@ body {
         opacity: 1;
         transform: translateX(0);
     }
+}
+
+.navbar-brand .brand-logo {
+    height: 1.5em;
+    width: auto;
 }
 
 .main-header {
@@ -225,6 +239,10 @@ body {
       align-items: center;
       z-index: 9999;
       transition: 0.5s ease-in-out;
+}
+
+.preloader.fade-out {
+    animation: fadeOut 0.5s ease-in-out forwards;
 }
 
 .preloader > div {
