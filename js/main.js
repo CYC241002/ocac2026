@@ -1,17 +1,54 @@
 (function() {
     fetch('./js/data.json').then(response => response.json()).then( jsonData => {
+        const HEADER_SESSION_NAME = 'header';
+
         var elementNavSessionRoot = document.getElementById('navSessionRoot');
         var elementSessionRoot = document.getElementById('sessionRoot');
+        var elementNewsRoot = document.getElementById('news');
 
         var dates = jsonData.dates;
         var schedule = jsonData.schedule;
         var gallery = jsonData.gallery;
+        var news = jsonData.news;
+
+        if (news && news[HEADER_SESSION_NAME]) {
+            var newsHTML = '<h2>最新消息</h2><div class="accordion accordion-flush border border-1 mb-4">';
+            news[HEADER_SESSION_NAME].forEach((item, index) => {
+                var link = item.link && item.link !== '' ? `<p><a class="btn btn-outline-primary mt-2 mb-2" href="${item.link}" target="_blank">詳細資訊</a></p>` : '';
+                var image = item.image && item.image !== '' ? `<img src="img/${HEADER_SESSION_NAME}/pictures/${item.image}" class="img-fluid rounded mt-2 mb-2 mx-auto d-block" alt="${item.title}">` : '' ;
+                var mark = '';
+                if (item.importance && item.importance.toUpperCase() === 'IMPORTANT') {
+                    mark = '<i class="bi bi-exclamation-diamond pe-1 text-danger fw-bold"></i>';
+                } else if (item.importance && item.importance.toUpperCase() === 'WARN') {
+                    mark = '<i class="bi bi-info-circle pe-1 text-warning fw-bold"></i>';
+                }
+                var newsItem = `
+                <div id="HeaderNews${index}" class="accordion-item">
+                    <h3 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#HeaderNewsCollapse${index}" aria-expanded="false" aria-controls="HeaderNewsCollapse${index}">
+                            ${mark}${item.title}
+                        </button>
+                    </h3>
+                    <div id="HeaderNewsCollapse${index}" class="accordion-collapse collapse" data-bs-parent="#newsAccordion">
+                        <div class="accordion-body">
+                            <div>${item.content}</div>
+                            ${image}
+                            ${link}
+                        </div>
+                    </div>
+                </div>`
+
+                newsHTML += newsItem;
+            });
+
+            newsHTML += '</div>';
+            elementNewsRoot.innerHTML = newsHTML;
+        }
 
         if (dates && dates.length > 0) {
             dates.forEach(date => {
                 if (date.status && date.status.toUpperCase() === 'CANCELLED') {
                     elementNavSessionRoot.insertAdjacentHTML('beforeend', `<li class="nav-item"><a class="nav-link" href="#session${date.session.toString().padStart(2, '0')}" role="button">第${toChineseNum(date.session)}梯次</a></li>`)
-
 
                     var elementSessionArticle = document.createElement('article');
                     elementSessionArticle.id = 'session' + date.session.toString().padStart(2, '0');
@@ -61,6 +98,47 @@
                     </div>
                 </div>
                 `
+
+                if (date.status.toUpperCase() === 'ENDED') {
+                    infoText += `<div class="p-3 mt-2 mb-2 text-info-emphasis bg-info-subtle border border-info-subtle rounded-3">
+                        <p class="m-0 p-0">本梯次已成功結束，感謝各位學員參與。</p>
+                    </div>`;
+                }
+
+                if (news[date.session]) {
+                    var newsHTML = '<h3>最新消息</h3><div class="accordion accordion-flush border border-1 mb-4">';
+                    news[date.session].forEach((item, index) => {
+                        var link = item.link && item.link !== '' ? `<p><a class="btn btn-outline-primary mt-2 mb-2" href="${item.link}" target="_blank">詳細資訊</a></p>` : '';
+                        var image = item.image && item.image !== '' ? `<img src="img/${date.session.toString().padStart(2, '0')}/pictures/${item.image}" class="img-fluid rounded mt-2 mb-2 mx-auto d-block" alt="${item.title}">` : '';
+                        var mark = '';
+                        if (item.importance && item.importance.toUpperCase() === 'IMPORTANT') {
+                            mark = '<i class="bi bi-exclamation-diamond pe-1 text-danger fw-bold"></i>';
+                        } else if (item.importance && item.importance.toUpperCase() === 'WARN') {
+                            mark = '<i class="bi bi-info-circle pe-1 text-warning fw-bold"></i>';
+                        }
+                        var newsItem = `
+                        <div id="HeaderNews${date.session}x${index}" class="accordion-item">
+                            <h4 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#HeaderNewsCollapse${index}" aria-expanded="false" aria-controls="HeaderNewsCollapse${index}">
+                                    ${mark}${item.title}
+                                </button>
+                            </h4>
+                            <div id="HeaderNewsCollapse${index}" class="accordion-collapse collapse" data-bs-parent="#newsAccordion">
+                                <div class="accordion-body">
+                                    <div>${item.content}</div>
+                                    ${image}
+                                    ${link}
+                                </div>
+                            </div>
+                        </div>`
+
+                        newsHTML += newsItem;
+                    });
+
+                    newsHTML += '</div>';
+                    infoText += newsHTML;
+                }
+
                 elementSessionArticle.insertAdjacentHTML('beforeend', infoText);
 
                 var elementSessionArticleSchedule = document.createElement('div');
@@ -163,29 +241,6 @@
                     })
                 }
 
-                // var tempPhotoGallery = `
-                // <div class="container">
-                //     <div class="row">
-                //         <div class="col-6">
-                //             <div class="card mb-2" style="width: 100%;">
-                //                 <img class="card-img-top session-pic-card-img" src="img/session01/pictures/IMG_20250117_090427.jpg" class="img-fluid rounded">
-                //                 <div class="card-body">
-                //                     <h3 class="card-title">國立故宮博物院<br><small class="text-secondary">National Palace Museum</small></h3>
-                //                 </div>
-                //             </div>
-                //         </div>
-                //         <div class="col-6">
-                //             <div class="card mb-2" style="width: 100%;">
-                //                 <img class="card-img-top session-pic-card-img" src="img/session01/pictures/IMG_20250129_150736.jpg" class="img-fluid rounded">
-                //                 <div class="card-body">
-                //                     <h3 class="card-title">台北市<br><small class="text-secondary">Taipei City</small></h3>
-                //                 </div>
-                //             </div>
-                //         </div>
-                //     </div>
-                // </div>`;
-
-                // elementSessionArticlePhoto.insertAdjacentHTML('beforeend', tempPhotoGallery);
                 elementSessionPhotoGallery.append(elementSessionPhotoGalleryRow);
                 elementSessionArticlePhoto.append(elementSessionPhotoGallery);
                 elementSessionArticle.append(elementSessionArticlePhoto);
