@@ -1,10 +1,20 @@
 (function() {
-    fetch('./js/data.json').then(response => response.json()).then( jsonData => {
-        const HEADER_SESSION_NAME = 'header';
+    const user_lang = navigator.language || navigator.userLanguage;
 
-        var elementNavSessionRoot = document.getElementById('navSessionRoot');
-        var elementSessionRoot = document.getElementById('sessionRoot');
-        var elementNewsRoot = document.getElementById('news');
+    var elementNavSessionRoot = document.getElementById('navSessionRoot');
+    var elementSessionRoot = document.getElementById('sessionRoot');
+    var elementNewsRoot = document.getElementById('news');
+    var elementPlaceModal = document.getElementById('placeModal');
+    const modalPlace = bootstrap.Modal.getOrCreateInstance(elementPlaceModal) || new bootstrap.Modal(elementPlaceModal);
+
+    var placeData = null;
+    
+    Promise.all([
+        fetch('./js/data.json').then(response => response.json()),
+        fetch('./js/place.json').then(response => response.json()).then(data => { placeData = data; })
+    ])
+    .then( ([jsonData]) => {
+        const HEADER_SESSION_NAME = 'header';
 
         var dates = jsonData.dates;
         var schedule = jsonData.schedule;
@@ -165,49 +175,54 @@
                             var allDayandNightActivities = dailySchedule['all-dayandnight'] || [];
                             var accommodationInfo = dailySchedule['accommodation'] || [];
 
-                            var accordionBodyContent = '';
+                            var accordionBodyContent = document.createElement('div');
+                            accordionBodyContent.className = 'accordion-body';
 
                             if (allDayandNightActivities.length > 0) {
-                                accordionBodyContent += `<h3>全日活動</h3>`;
-                                allDayandNightActivities.forEach(activity => accordionBodyContent += generateScheduleActivity(activity));
+                                accordionBodyContent.insertAdjacentHTML('beforeend', `<h3>全日活動</h3>`);
+                                allDayandNightActivities.forEach(activity => accordionBodyContent.appendChild(generateScheduleActivity(activity)));
                             } else if (allDayActivities.length > 0) {
-                                accordionBodyContent += `<h3>全日活動</h3>`;
-                                allDayActivities.forEach(activity => accordionBodyContent += generateScheduleActivity(activity));
-                                accordionBodyContent += `<h3>晚間活動</h3>`;
-                                eveningActivities.forEach(activity => accordionBodyContent += generateScheduleActivity(activity));
+                                accordionBodyContent.insertAdjacentHTML('beforeend', `<h3>全日活動</h3>`);
+                                allDayActivities.forEach(activity => accordionBodyContent.appendChild(generateScheduleActivity(activity)));
+                                accordionBodyContent.insertAdjacentHTML('beforeend', `<h3>晚間活動</h3>`);
+                                eveningActivities.forEach(activity => accordionBodyContent.appendChild(generateScheduleActivity(activity)));
                             } else {
-                                accordionBodyContent += `<h3>上午活動</h3>`;
-                                morningActivities.forEach(activity => accordionBodyContent += generateScheduleActivity(activity));
-                                accordionBodyContent += `<h3>中午活動</h3>`;
-                                afternoonActivities.forEach(activity => accordionBodyContent += generateScheduleActivity(activity));
-                                accordionBodyContent += `<h3>晚間活動</h3>`;
-                                eveningActivities.forEach(activity => accordionBodyContent += generateScheduleActivity(activity));
+                                accordionBodyContent.insertAdjacentHTML('beforeend', `<h3>上午活動</h3>`);
+                                morningActivities.forEach(activity => accordionBodyContent.appendChild(generateScheduleActivity(activity)));
+                                accordionBodyContent.insertAdjacentHTML('beforeend', `<h3>中午活動</h3>`);
+                                afternoonActivities.forEach(activity => accordionBodyContent.appendChild(generateScheduleActivity(activity)));
+                                accordionBodyContent.insertAdjacentHTML('beforeend', `<h3>晚間活動</h3>`);
+                                eveningActivities.forEach(activity => accordionBodyContent.appendChild(generateScheduleActivity(activity)));
                             }
 
-                            accordionBodyContent += `<h3 class="mt-2">住宿</h3>`;
+                            accordionBodyContent.insertAdjacentHTML('beforeend', `<h3 class="mt-2">住宿</h3>`);
                             accommodationInfo.forEach(activity => {
                                 if (activity.introduction_en != '') {
-                                    accordionBodyContent += `<p><a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="${activity.introduction_en}" target="_blank">${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></a></p>`
+                                    accordionBodyContent.insertAdjacentHTML('beforeend', `<p><a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0" href="${activity.introduction_en}" target="_blank">${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></a></p>`)
                                 } else {
-                                    accordionBodyContent += `<p>${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></p>`
+                                    accordionBodyContent.insertAdjacentHTML('beforeend', `<p>${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></p>`)
                                 }
                             });
 
-                            var elementScheduleItem = `
+                            var elementScheduleItem = document.createElement('div');
+                            elementScheduleItem.innerHTML = `
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#session${date.session.toString().padStart(2, '0')}ScheduleDay${index + 1}" aria-expanded="false" aria-controls="session${date.session.toString().padStart(2, '0')}ScheduleDay${index + 1}">
                                         ${toChineseDate(daily)} （${toChineseDate(daily, true)}）<small class="ps-2 text-secondary">${toEnglishDate(daily)}  ${toEnglishDate(daily, true)}</small>
                                     </button>
                                 </h2>
-                                <div id="session${date.session.toString().padStart(2, '0')}ScheduleDay${index + 1}" class="accordion-collapse collapse" data-bs-parent="session${date.session.toString().padStart(2, '0')}ScheduleAccordion">
-                                    <div class="accordion-body">
-                                        ${accordionBodyContent}
-                                    </div>
-                                </div>
-                            </div>`
+                            </div>`;
+                            elementScheduleItem = elementScheduleItem.firstElementChild;
 
-                            elementSessionArticleScheduleTable.insertAdjacentHTML('beforeend', elementScheduleItem);
+                            var elementScheduleItemBodyOuter = document.createElement('div');
+                            elementScheduleItemBodyOuter.innerHTML = `<div id="session${date.session.toString().padStart(2, '0')}ScheduleDay${index + 1}" class="accordion-collapse collapse" data-bs-parent="session${date.session.toString().padStart(2, '0')}ScheduleAccordion">
+                            </div>`;
+                            elementScheduleItemBodyOuter = elementScheduleItemBodyOuter.firstElementChild;
+                            elementScheduleItemBodyOuter.appendChild(accordionBodyContent);
+                            
+                            elementScheduleItem.appendChild(elementScheduleItemBodyOuter);
+                            elementSessionArticleScheduleTable.appendChild(elementScheduleItem);
                         })
                     }
                 }
@@ -323,19 +338,73 @@
     }
 
     function generateScheduleActivity(activity) {
-        var accordionBodyContent = '';
+        // var accordionBodyContent = '';
+        // if (activity.title && activity.title !== '') {
+        //     accordionBodyContent += `<h4>${activity.title}</h4>`
+        // }
+
+        // if (activity.place_id != '' && placeData && placeData.find(place => place.id === activity.place_id)) {
+        //     accordionBodyContent += `<p><a href="#" onClick="event.preventDefault(); showPlaceModal(${activity.place_id}, '${activity.place}');">${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></a></p>`   
+        // } else {
+        //     accordionBodyContent += `<p>${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></p>`
+        // }
+
+        // if (activity.introduction && activity.introduction !== '') {
+        //     var intro_en = activity.introduction_en == '' ? `<small class="ps-2 text-secondary">${activity.introduction_en}</small>` : '';
+
+        //     accordionBodyContent += `<p>${activity.introduction}${intro_en}</p>`
+        // }
+
+        // return accordionBodyContent;
+
+        var accordionBody = document.createElement('div');
         if (activity.title && activity.title !== '') {
-            accordionBodyContent += `<h4>${activity.title}</h4>`
+            var titleElement = document.createElement('h4');
+            titleElement.innerText = activity.title;
+            accordionBody.appendChild(titleElement);
         }
 
-        accordionBodyContent += `<p>${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></p>`
+        if (activity.place_id != '' && placeData && placeData.find(place => place.id === activity.place_id)) {
+            var placeElement = document.createElement('a');
+            placeElement.href = '#';
+            placeElement.className = 'link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0';
+            placeElement.innerHTML = `<p>${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small></p>`;
+            placeElement.addEventListener('click', function(e) {
+                e.preventDefault();
+                showPlaceModal(activity.place_id, activity.place);
+            })
+            accordionBody.appendChild(placeElement);
+        } else {
+            var placeElement = document.createElement('p');
+            placeElement.innerHTML = `${activity.place}<small class="ps-2 text-secondary">${activity.place_en}</small>`;
+            accordionBody.appendChild(placeElement);
+        }
 
         if (activity.introduction && activity.introduction !== '') {
             var intro_en = activity.introduction_en == '' ? `<small class="ps-2 text-secondary">${activity.introduction_en}</small>` : '';
-
-            accordionBodyContent += `<p>${activity.introduction}${intro_en}</p>`
+            var introElement = document.createElement('p');
+            introElement.innerHTML = `${activity.introduction}${intro_en}`;
+            accordionBody.appendChild(introElement);
         }
 
-        return accordionBodyContent;
+        return accordionBody;
+    }
+
+    function showPlaceModal(placeId, placeName) {
+        console.log(placeName);
+        if (!placeData) return;
+
+        var placeInfo = placeData.find(place => place.id === placeId);
+        if (!placeInfo) return;
+
+        var elementPlaceModalTitle = elementPlaceModal.querySelector('.modal-title');
+        var elementPlaceModalBody = elementPlaceModal.querySelector('.modal-body');
+
+        var image = placeInfo.image && placeInfo.image !== '' ? `<img src="img/place/${placeInfo.image}" class="img-fluid rounded mb-3 mx-auto d-block" alt="${placeName}">` : '' ;
+
+        elementPlaceModalTitle.innerHTML = placeName
+        elementPlaceModalBody.innerHTML = (placeInfo[user_lang] || placeInfo["zh-TW"]).split('\n').filter(line => line.trim() !== '').map(line => `<p>${line}</p>`).join('') + image;
+
+        modalPlace.show();
     }
 })()
